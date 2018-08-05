@@ -1,1 +1,2 @@
-# deeplearning_code
+研究学习mathine learning、deep learning的程序
+基于python语言
